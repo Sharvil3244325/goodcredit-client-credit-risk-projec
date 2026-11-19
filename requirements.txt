@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+pymysql
+scikit-learn
+xgboost
+matplotlib
+seaborn
+jupyter
+ipython
